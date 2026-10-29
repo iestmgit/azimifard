@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /teacher-panel.php
+Disallow: /student-panel.php
+Disallow: /uploads/
+
+Sitemap: http://localhost:8000/sitemap.xml
